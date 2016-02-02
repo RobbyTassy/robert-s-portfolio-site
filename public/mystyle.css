@@ -5,7 +5,7 @@ body {
 }
 
 .div_one {
-  background: url('robert_picture_wall_pic2.jpg')no-repeat center center fixed;
+  background: url('robert_picture_wall_pic2.jpg') no-repeat center center fixed;
   height: 49vw;
   background-size: cover;
   position: relative;
@@ -107,7 +107,7 @@ a {
 
 .div_two {
   position: relative;
-  background: url('robert_picture_wall_pic3.jpg')no-repeat center center fixed;
+  background: url('robert_picture_wall_pic3.JPG') no-repeat center center fixed;
   height: 49vw;
   width: 100%;
   background-size: cover;
@@ -153,7 +153,7 @@ p {
 }
 
 .div_three {
-  background: url('robert_picture_wall_pic4.jpg')no-repeat center center fixed;
+  background: url('robert_picture_wall_pic4.JPG') no-repeat center center fixed;
   height: 49vw;
   background-size: cover;
   position: relative;
