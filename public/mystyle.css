@@ -1,0 +1,175 @@
+body {
+  /*background-color: #fbf78c;*/
+  padding: 0;
+  margin: 0;
+}
+
+.div_one {
+  background: url('robert_picture_wall_pic2.jpg')no-repeat center center fixed;
+  height: 49vw;
+  background-size: cover;
+  position: relative;
+
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Calligraffitti', cursive;
+  font-size: 72px;
+  color: white;
+  background-color: rgba(120, 112, 228, 0.9);
+  text-align: center;
+  padding: 10px;
+
+}
+
+.title {
+  position: relative;
+  width: 40%;
+  padding-left: 10em;
+}
+
+
+.endorse_two {
+  /*background-color: rgba(137, 236, 250, 0.9);*/
+  width: 50vw;
+  border-radius: 25px;
+  padding-top: 5vw;
+  text-align: center;
+  height: 50%;
+}
+
+.endorse_two p {
+  padding-left: 50px;
+  margin: 0px;
+}
+
+
+
+blockquote {
+  background-color: rgba(144, 238, 250, 0.9);
+  color: black;
+  font-size: 30px;
+  border-radius: 25px;
+  padding: 25px;
+  margin-bottom: 0px;
+  text-align: left;
+}
+
+.menu_options {
+  background-color: rgba(144, 238, 250, 0.9);
+  position: relative;
+  display: inline;
+  text-align: center;
+  font-size: 2em;
+  color: white;
+  border-radius: 20px;
+  padding: 20px;
+  margin-top: 30px;
+  border: 2px solid black;
+}
+
+.menu_options:hover {
+  background-color: rgba(144, 238, 250, 1);
+}
+
+.menu_options:visited, .menu_options:active  {
+    text-decoration: none;
+}
+
+
+.social_media ul {
+  position: absolute;
+  bottom: 95px;
+  color: white;
+  display: flex;
+  list-style: none;
+  width: 60%;
+  justify-content: center;
+  /*background-color: black;*/
+  margin: 0px;
+}
+
+.social_media ul li {
+  background-color: rgba(91, 189, 182, 0.6);
+  padding: 5px;
+  border-radius: 100px;
+}
+
+.social_media ul li:hover {
+  background-color: rgba(91, 189, 182, 1.0);
+}
+
+a {
+  text-decoration: none;
+}
+
+
+.div_two {
+  position: relative;
+  background: url('robert_picture_wall_pic3.jpg')no-repeat center center fixed;
+  height: 49vw;
+  width: 100%;
+  background-size: cover;
+  position: relative;
+}
+
+.portfolio_div {
+  position: absolute;
+  background: rgba(55, 101, 143, 0.9);
+  height: 30vw;
+  width: 30vw;
+  border-radius: 25px;
+  text-align: center;
+  padding-right: 2em;
+}
+
+ ul {
+  padding-top: 10vw;
+  color: white;
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+
+
+}
+
+p {
+  margin: 0;
+  padding-top: 7vw;
+  padding-left: 50vw;
+  color: white;
+  display: flex;
+  list-style: none;
+  font-size: 1.5em;
+}
+
+.click_up {
+  float:right;
+  background: rgba(55, 101, 143, 0.9);
+  border-radius: 25px;
+  padding: 2em;
+  color: white;
+}
+
+.div_three {
+  background: url('robert_picture_wall_pic4.jpg')no-repeat center center fixed;
+  height: 49vw;
+  background-size: cover;
+  position: relative;
+}
+
+.bio_header {
+  font-size: 3em;
+
+}
+
+footer {
+position: relative;
+width: 100%;
+background-color: #376a9d;
+border: 2px white;
+color: white;
+padding: 25px;
+text-align: center;
+}
